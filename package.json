@@ -1,6 +1,14 @@
 {
   "name": "react-typescript-starter",
   "version": "0.1.0",
+  "description": "Starter template for a React app with Typescript",
+  "repository": {
+    "url": "https://www.github.com/mbise1993/react-typescript-starter"
+  },
+  "author": {
+    "name": "Matt Bise",
+    "url": "https://www.github.com/mbise1993"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
